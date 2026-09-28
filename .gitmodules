@@ -1,0 +1,10 @@
+[submodule "Machine Learning/WinLosePredictor - Project"]
+	path = Machine Learning/WinLosePredictor - Project
+	url = https://github.com/andresjaramillo7/WinLosePredictor.git
+[submodule "Deep Learning/RoboCap - Project"]
+	path = Deep Learning/RoboCap - Project
+	url = https://github.com/andresjaramillo7/RoboCap.git
+	branch = 1-0---stable-version
+[submodule "Machine Learning/Basic Neural Networks/Associative Neural Networks - Project"]
+	path = Machine Learning/Basic Neural Networks/Associative Neural Networks - Project
+	url = https://github.com/Pedro3107dev/Associative_Neural_Networks.git
